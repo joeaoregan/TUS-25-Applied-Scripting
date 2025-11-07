@@ -6,7 +6,7 @@
 # Specification Table:
 
 #   Inputs   | Processing Steps                 |  Outputs
-#------------------------------------------------------------
+# -----------------------------------------------------------
 #   name in  | Input name in snake case         |  name in
 # snake case | Replace underscore with space    | camel case
 #            | Capitalise individual "words"    |
@@ -17,7 +17,7 @@
 # Example:
 
 # Test	               | Input         | Result
-#============================================================
+# ==================================================================================================
 # Only one underscore  | variable_name | Enter the variable name in snake_case: variable_name
 #                      |               | The equivalent variable name in camelCase is: variableName
 # Multiple underscores | my_var_name   | Enter the variable name in snake_case: my_var_name
