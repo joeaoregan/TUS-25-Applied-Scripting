@@ -1,1 +1,5 @@
-# TUS-25-CDD-CouponService
+# TUS-25-Applied-Scripting
+
+## Python
+### Pre-Reading Quizes
+### Weekly Exercises
