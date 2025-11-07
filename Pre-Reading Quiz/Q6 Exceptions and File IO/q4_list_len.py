@@ -1,0 +1,3 @@
+results = []
+
+print(len(results))
