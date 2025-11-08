@@ -4,7 +4,7 @@
 contacts = {} # empty dictionary
 
 while True:
-    choice = input("[D]isplay [A]dd [E]dit [R]emove [S]earch [Q]uit: ")
+    choice = input("[D]isplay [A]dd [E]dit [R]emove [S]earch [Q]uit: ").strip().lower()
 
     match choice.lower()[0]:
         case "q":
