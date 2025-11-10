@@ -37,22 +37,26 @@ fig,ax = plt.subplots()
 
 # histogram
 # Set the title
-ax.set_title("Trolleywatch Data")
+# ax.set_title("Trolleywatch Data")
 
-# set the axis labels
-ax.set_xlabel("Number of Patients")
-ax.set_ylabel("Frequency")
+# # set the axis labels
+# ax.set_xlabel("Number of Patients")
+# ax.set_ylabel("Frequency")
+
 
 # create a list for the histogram boundaries
 bins_list = [ i for i in range(0,max(patients_list)+10,10)] # from zero to the maximum number of the patients list, in tens
 # set the ticks on the x-axis
-ax.set_xticks(bins_list)
+# ax.set_xticks(bins_list)
+
+ax.set(title="Trolleywatch Data", xlabel="Number of Patients", ylabel="Frequency", xticks=bins_list) # set multiple properties in one go:
 # Display a histogram of the patient numbers
 # ax.hist(patients_list)
 # ax.hist(patients_list,ec="black") # set the edge colour, highlights where the intervals are
-# ax.hist(patients_list,bins=9,ec="black") # change the number of bins to use to 9
-ax.hist(patients_list,bins=bins_list,ec="black") # change the number of bins to use to 9
+ax.hist(patients_list,bins=9,ec="black") # change the number of bins to use to 9
+#ax.hist(patients_list,bins=bins_list,ec="black") # change the number of bins to use to 9
 
 plt.show()
 
-fig.savefig('figures/histogram_bins_list_xticks.png', bbox_inches='tight')
+fig.savefig('figures/histogram_9_bins.png', bbox_inches='tight')
+# fig.savefig('figures/histogram_bins_list_xticks.png', bbox_inches='tight')
