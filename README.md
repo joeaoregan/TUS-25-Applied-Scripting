@@ -14,6 +14,7 @@
 4. Select and apply appropriate features from APIs to solve specific problems.
 
 **Syllabus**
+
 **Introduction**
 Features of Scripting languages (dynamic programming languages). Control structures: if-elif-else, match, while, for. The
 Python Standard Library. Importing modules. Third party modules and packages. Program design. Testing and debugging.
