@@ -29,6 +29,32 @@ Statistical Analysis. Interpreting results.
 **Visualisation**
 Line plots, histograms, box plots and violin plots. Pie charts, bar charts, scatter plots. Interpreting visualisations.
 
+<details closed>
+<summary>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/histogram.png" title="Histogram" height="100"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/iqr2.png" title="Interquartile Range" height="100"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/piechart_gk_distribution_colours2.png" title="Pie Chart" height="100"/>
+<p>Click here for larger images, or individual thumbnails to go to raw images.</p>
+</summary>
+
+![Histogram](https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/histogram.png)
+
+###### Histogram
+
+---
+
+![Interquartile Range](https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/iqr2.png)
+
+###### Interquartile Range
+
+---
+
+![Pie Chart](https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/piechart_gk_distribution_colours2.png)
+
+###### Pie Chart
+
+</details>
+
 #### Python
 
 #### Pre-Reading Quizes
