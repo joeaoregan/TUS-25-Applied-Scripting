@@ -37,19 +37,19 @@ Line plots, histograms, box plots and violin plots. Pie charts, bar charts, scat
 <p>Click here for larger images, or individual thumbnails to go to raw images.</p>
 </summary>
 
-![Histogram](https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/histogram.png)
+![Histogram](https://github.com/joeaoregan/TUS-25-Applied-Scripting/blob/main/wk10%20visualisation%20and%20matplotlib/additional/figures/histogram.png?raw=true "Histogram")
 
 ###### Histogram
 
 ---
 
-![Interquartile Range](https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/iqr2.png)
+![Interquartile Range](https://github.com/joeaoregan/TUS-25-Applied-Scripting/blob/main/wk10%20visualisation%20and%20matplotlib/additional/figures/iqr2.png?raw=true "Interquartile Range")
 
 ###### Interquartile Range
 
 ---
 
-![Pie Chart](https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/piechart_gk_distribution_colours2.png)
+![Pie Chart](https://github.com/joeaoregan/TUS-25-Applied-Scripting/blob/main/wk10%20visualisation%20and%20matplotlib/additional/figures/piechart_gk_distribution_colours2.png?raw=true "Pie Chart")
 
 ###### Pie Chart
 
