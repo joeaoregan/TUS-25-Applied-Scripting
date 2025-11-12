@@ -31,11 +31,20 @@ Line plots, histograms, box plots and violin plots. Pie charts, bar charts, scat
 
 <details closed>
 <summary>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/visualisation with matplotlib/plots/acre_fires_2016.png" title="Line Graph" height="100"/>
 <img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/histogram.png" title="Histogram" height="100"/>
 <img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/iqr2.png" title="Interquartile Range" height="100"/>
 <img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/additional/figures/piechart_gk_distribution_colours2.png" title="Pie Chart" height="100"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/visualisation with matplotlib/bar charts/amazon_hbar_chart.png" title="Bar Chart" height="100"/>
+<img src="https://raw.githubusercontent.com/joeaoregan/TUS-25-Applied-Scripting/master/wk10 visualisation and matplotlib/visualisation with matplotlib/scatterplot/scatterplot_supercomputers2.png" title="Scatterplot" height="100"/>
 <p>Click here for larger images, or individual thumbnails to go to raw images.</p>
 </summary>
+
+![Line Graph](https://github.com/joeaoregan/TUS-25-Applied-Scripting/blob/main/wk10%20visualisation%20and%20matplotlib/visualisation%20with%20matplotlib/plots/acre_fires_2016.png?raw=true "Line Graph")
+
+###### Line Graph
+
+---
 
 ![Histogram](https://github.com/joeaoregan/TUS-25-Applied-Scripting/blob/main/wk10%20visualisation%20and%20matplotlib/additional/figures/histogram.png?raw=true "Histogram")
 
@@ -43,15 +52,27 @@ Line plots, histograms, box plots and violin plots. Pie charts, bar charts, scat
 
 ---
 
-![Interquartile Range](https://github.com/joeaoregan/TUS-25-Applied-Scripting/blob/main/wk10%20visualisation%20and%20matplotlib/additional/figures/iqr2.png?raw=true "Interquartile Range")
+![Box Plot](https://github.com/joeaoregan/TUS-25-Applied-Scripting/blob/main/wk10%20visualisation%20and%20matplotlib/additional/figures/iqr2.png?raw=true "Box Plot - Interquartile Range")
 
-###### Interquartile Range
+###### Box Plot
 
 ---
 
 ![Pie Chart](https://github.com/joeaoregan/TUS-25-Applied-Scripting/blob/main/wk10%20visualisation%20and%20matplotlib/additional/figures/piechart_gk_distribution_colours2.png?raw=true "Pie Chart")
 
 ###### Pie Chart
+
+---
+
+![Bar Chart](https://github.com/joeaoregan/TUS-25-Applied-Scripting/blob/main/wk10%20visualisation%20and%20matplotlib/visualisation%20with%20matplotlib/bar%20charts/amazon_hbar_chart.png?raw=true "Bar Chart")
+
+###### Bar Chart
+
+---
+
+![Scatterplot](https://github.com/joeaoregan/TUS-25-Applied-Scripting/blob/main/wk10%20visualisation%20and%20matplotlib/visualisation%20with%20matplotlib/scatterplot/scatterplot_supercomputers2.png?raw=true "Scatterplot")
+
+###### Scatterplot
 
 </details>
 
