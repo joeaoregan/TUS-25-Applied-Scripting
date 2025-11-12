@@ -6,14 +6,16 @@
 
 ### Applied Scripting Module
 
-**Learning Outcomes**
+#### Python
+
+##### Learning Outcomes
 
 1. Design, implement, debug and test a modular application.
 2. Create reusable software components and analyse their performance.
 3. Select and use appropriate data structures to solve specific problems.
 4. Select and apply appropriate features from APIs to solve specific problems.
 
-**Syllabus**
+##### Syllabus
 
 **Introduction**
 Features of Scripting languages (dynamic programming languages). Control structures: if-elif-else, match, while, for. The
@@ -75,8 +77,6 @@ Line plots, histograms, box plots and violin plots. Pie charts, bar charts, scat
 ###### Scatterplot
 
 </details>
-
-#### Python
 
 #### Pre-Reading Quizes
 
