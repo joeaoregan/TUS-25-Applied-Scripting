@@ -1,0 +1,7 @@
+Minute,Protocol,Duration,sPackets,rPackets,Type
+0,ARP,0.000003,3,0,Normal
+0,LLDP,0.000001,1,0,Normal
+0,IPV4-TCP,0.47865,40,30,Normal
+0,IPV4-TCP,0.499777,16,22,Normal
+0,IPV4-TCP,0.499604,10,20,Normal
+0,IPV4-2,0.002299,4,0,Normal
