@@ -12,7 +12,7 @@
 
 import re
 
-regex = r"\w+\.\w{,4}"
+regex = r"\w+\.\w{1,4}"
 
 def check_filename(filename):
     if re.fullmatch(regex, filename):
