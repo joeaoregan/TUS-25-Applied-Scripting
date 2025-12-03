@@ -5,7 +5,7 @@ def calc_luhn_sum(digits):
         if i % 2 == 0:
             luhn += char
         else:
-            luhn += (int(char) * 2)
+            luhn += str(int(char) * 2)
     
     total = 0
     for char in luhn:

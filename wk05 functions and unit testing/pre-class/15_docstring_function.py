@@ -20,6 +20,9 @@ def convert_to_metres(feet, inches):
     Examples
     --------
     >>> convert_to_metres(29, 2.5)
+    8.9027
     >>> convert_to_metres(0, 12)
+    0.3048
     >>> convert_to_metres(6, 0)
+    1.8288
     """

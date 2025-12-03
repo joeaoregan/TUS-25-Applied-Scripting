@@ -11,6 +11,6 @@ else:
     if percent_free == 0.0:
         print("Warning: system full")
     elif percent_free < 30:
-        print("Warning, low disk space", percent_free)
+        print("Warning, low disk space")
     else:
         print("System has sufficient disk space")
