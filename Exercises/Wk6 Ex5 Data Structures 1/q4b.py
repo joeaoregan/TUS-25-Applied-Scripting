@@ -4,7 +4,8 @@ from string import ascii_lowercase
 
 frequencies = []
 
-text = input("Enter the text: ").lower()
+# text = input("Enter the text: ").lower()
+text = "I refuse to join any club that would have me as a member.".lower()
 
 # Version 1: Count each letter of the Alphabet
 # for letter in ascii_lowercase:
@@ -12,7 +13,7 @@ text = input("Enter the text: ").lower()
 
 # Version 2: Process each letter of the text
 
-# frequencies = [0] * 26
+frequencies = [0] * 26
 # # print(frequencies)
 # # for i, letter in enumerate(text):
 # for letter in text:
@@ -22,8 +23,8 @@ text = input("Enter the text: ").lower()
 #         continue
 
 # Version 3: Process each unique letter of the text
-unique_characters = set(text)
-for character in set:
+# unique_characters = set(text)
+for character in set(text):
     if character.isalpha():
         index = ascii_lowercase.index(character)
         count = text.count(character)
