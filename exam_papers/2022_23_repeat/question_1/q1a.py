@@ -1,6 +1,6 @@
 # 2022/23 Repeat
-# Q1(a)
 
+# Q1(a)
 def is_valid_password(password):
     """
     Check if a password is valid.
