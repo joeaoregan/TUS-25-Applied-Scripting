@@ -5,7 +5,7 @@ number_string = "6 3 9 6 6 5 9 3"
 # Turn the input sequence into a list of numbers using list comprehension
 numbers = [int(num) for num in number_string.split()]
 
-# Create a sorted list of the unique numbers using a set
+# Create a list of the unique numbers using a set
 # values = sorted(set(numbers)) # OLD
 values = list(set(numbers)) # have to use list(), can't index set
 print(values)

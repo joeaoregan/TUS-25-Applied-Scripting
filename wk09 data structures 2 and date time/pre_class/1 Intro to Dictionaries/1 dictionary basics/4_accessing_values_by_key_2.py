@@ -7,4 +7,5 @@ print(contacts.get('Ailbhe')) # 0861234567
 print(contacts.get('Deirdre')) # None
 
 # You can specify a default value to return instead, if the key is not in the dictionary. The syntax is:
+# data_dict.get(key, default_value)
 print(contacts.get('Deirdre', "Not in contacts")) # Provide a default value for when none returned

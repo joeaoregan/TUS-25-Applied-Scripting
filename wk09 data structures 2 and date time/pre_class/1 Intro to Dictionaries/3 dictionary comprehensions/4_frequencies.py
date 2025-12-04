@@ -1,4 +1,4 @@
-# Dictionary Comprehensions: Frequencies
+# P15 - Dictionary Comprehensions: Frequencies
 # Count frequencies of unique list items
 numbers = [1, 2, 3, 1, 2, 1, 4, 3, 1, 2, 5]
 frequencies = {num: numbers.count(num) for num in set(numbers)}

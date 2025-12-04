@@ -1,3 +1,4 @@
+# P20
 # Dictionary with tuple as value
 # Example: Supercomputers
 # Key: System ID (unique, string)
@@ -27,6 +28,7 @@ with open("TOP500_202506.csv") as top500_file:
             float(rmax)         # Rmax (peak performance)
         )
     
+    # P21
     # a) System with the highest Rmax
     top_system_id = max(supercomputers, key=lambda sid: supercomputers[sid][6]) # System with highest Rmax determined using Lambda key funciton with max(). sid is the System ID, supercomputers[sid][6] retrieves Rmax for each sid key
     name, manufacturer, country, year, segment, total_cores, rmax = supercomputers[top_system_id]
