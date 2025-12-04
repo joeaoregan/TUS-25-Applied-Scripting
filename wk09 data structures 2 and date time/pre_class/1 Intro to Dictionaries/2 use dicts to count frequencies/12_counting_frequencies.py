@@ -1,4 +1,4 @@
-# Using Dictionaries for Counting Frequencies
+# P12 - Using Dictionaries for Counting Frequencies
 
 # keys: things being counted
 # values: the frequencies (counts)
@@ -8,7 +8,7 @@
 #   if this is a new item, Set the frequency to 1
 #   Otherwise increase the frequency by 1
 
-# Basic Version
+# 1. Basic Version
 
 numbers = [1, 2, 3, 1, 3, 4, 5, 1, 1, 3, 3, 8, 7, 2, 5]
 frequencies = {}

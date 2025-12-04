@@ -1,3 +1,5 @@
+# P7 - Using the dictionary method .pop(key)
+
 # Removes item (key-value pair), returns the value
 
 contacts = { 'Ailbhe': '0861234567', 'Bláthnaid': '0879876543', 'Conor': '0855554321' }

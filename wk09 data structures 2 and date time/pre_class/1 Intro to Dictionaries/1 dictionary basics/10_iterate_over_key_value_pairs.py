@@ -1,4 +1,4 @@
-# Iterate over the key-value pairs
+# P9 - Iterate over the key-value pairs
 
 # data_dict = {}
 # for key, value in data_dict.items():
@@ -7,7 +7,7 @@
 contacts = {'Emergancy': '112', 'Ailbhe': '0861234567', 'Bláthnaid': '0879876543'}
 
 print(f"{'Name':<12} {'Number'}")
-for name, number in contacts.items():
+for name, number in contacts.items(): # insertion order
     print(f"{name:<12} {number}")
 
 # Insertion order
@@ -19,7 +19,7 @@ for name, number in contacts.items():
 # Sort the items in order of the keys
 
 print(f"{'Name':<12} {'Number'}")
-for name, number in sorted(contacts.items()):
+for name, number in sorted(contacts.items()): # key order
     print(f"{name:<12} {number}")
 
 # Key order

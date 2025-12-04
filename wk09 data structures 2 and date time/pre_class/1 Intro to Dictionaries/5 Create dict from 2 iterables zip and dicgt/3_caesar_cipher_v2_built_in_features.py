@@ -1,3 +1,4 @@
+# P26
 from string import ascii_lowercase, ascii_uppercase
 
 # create the cipher alphabet by shifting each letter 3 places to the right
@@ -13,5 +14,3 @@ plaintext = input("Enter the message to be enciphered: ") # Hello World
 ciphertext = plaintext.lower().translate(cipher_table)
 # str.translate() replaces characters in input text with corresponding value
 print(f"The enciphered message is {ciphertext}")
-
-

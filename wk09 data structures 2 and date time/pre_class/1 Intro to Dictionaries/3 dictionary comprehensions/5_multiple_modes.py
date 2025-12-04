@@ -1,4 +1,4 @@
-# Dictionary Comprehensions: Multiple Modes
+# P16 - Dictionary Comprehensions: Multiple Modes
 # Identify the keys that match the maximum frequency
 
 # max_freq = max(frequencies.values())

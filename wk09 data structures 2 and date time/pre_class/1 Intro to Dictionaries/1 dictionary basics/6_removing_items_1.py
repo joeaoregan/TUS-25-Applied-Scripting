@@ -1,3 +1,5 @@
+# P7 - Removing Dictionary Items
+
 # removes item (key-value pair), doesn't return anything:
 
 contacts = { 'Ailbhe': '0861234567', 'Bláthnaid': '0879876543', 'Conor': '0855554321' }

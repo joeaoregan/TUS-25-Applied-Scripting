@@ -1,5 +1,13 @@
+# P4 - Dictionary basics
 
 contacts = { 'Ailbhe': '0861234567', 'Bláthnaid': '0879876543', 'Conor': '0855554321' }
+
+# create an empty dictionary
+data_dict = {}
+
+# Empty dictionary evaluates as False
+contacts = {}
+print(bool(contacts))
 
 # initialised over multiple lines for clarity
 contacts = {
@@ -7,6 +15,7 @@ contacts = {
     'Bláthnaid': '0879876543',
     'Conor': '0855554321'
 }
+print(bool(contacts))
 
 print(contacts)
 print(type(contacts))

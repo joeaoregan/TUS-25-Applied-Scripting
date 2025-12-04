@@ -1,3 +1,5 @@
+# P6 - Inserting and Modifying Dictionary Items
+
 # Insert a new item (key-value pair):
 contacts = { 'Ailbhe': '0861234567', 'Bláthnaid': '0879876543', 'Conor': '0855554321' }
 contacts['Deepak'] = '0831122334'

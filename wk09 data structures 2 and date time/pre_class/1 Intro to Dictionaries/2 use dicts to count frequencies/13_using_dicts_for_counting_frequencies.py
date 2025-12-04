@@ -1,7 +1,6 @@
-# Using Dictionaries for Counting Frequencies
+# P12 - Using Dictionaries for Counting Frequencies
 
-
-# Using .setdefault(key, default)
+# 2. Using .setdefault(key, default)
 
 numbers = [1, 2, 3, 1, 3, 4, 5, 1, 1, 3, 3, 8, 7, 2, 5]
 frequencies = {}
@@ -15,7 +14,12 @@ for number in numbers:
 
 print(frequencies)
 
-# Using .get(key, default)
+
+
+# 3. Using .get(key, default)
+
+# Most concise and Pythonic
+
 
 numbers = [1, 2, 3, 1, 3, 4, 5, 1, 1, 3, 3, 8, 7, 2, 5]
 frequencies = {}
