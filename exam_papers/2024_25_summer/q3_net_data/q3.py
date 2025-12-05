@@ -33,7 +33,8 @@
 #  Figure 3.3 overleaf provides a table showing sample data for the data structures.
 
 filename = "net_data.csv"
-filename = "exam_papers\\2024_25_summer\\question_3\\net_data.csv"
+filename = "exam_papers\\2024_25_summer\\q3_net_data\\net_data.csv"
+filename = "exam_papers/2024_25_summer/q3_net_data/net_data.csv"
 
 # 3(a)(ii)
 duration_list = []
@@ -82,11 +83,11 @@ fig,axs = plt.subplots(2,3, figsize=(15,12))
 fig.suptitle("Network Data") # Q3(c)(ii)
 
 axs[0,0].set_title("Events")
-axs[0,0].plot(events_dict.keys(),events_dict.values())
 axs[0,0].set_xlabel("Minute")
 axs[0,0].set_ylabel("Number of events")
 bins_list = [ i for i in events_dict.keys() ]
 axs[0,0].set_xticks(bins_list)
+axs[0,0].plot(events_dict.keys(),events_dict.values())
 
 axs[0,1].set_title("Event Duration")
 axs[0,1].set_xlabel("Time in Seconds")
