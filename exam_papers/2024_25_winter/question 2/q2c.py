@@ -3,10 +3,11 @@
 
 from random import choice
 
-def encipher_text(plaintext, cipher_key={}):
+def encipher_text(plaintext, cipher_key):
     ciphertext = ""
     for char in plaintext.lower():
-        if char.islower():
+        # if char.islower():
+        if char in cipher_key:
             # print(char)
             letter = choice(cipher_key[char])
             ciphertext += letter + " "

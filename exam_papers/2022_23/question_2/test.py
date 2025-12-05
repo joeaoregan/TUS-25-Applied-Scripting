@@ -15,6 +15,7 @@ print()
 for candidate in sorted(results, key=results.get, reverse=True):
     print(f"{candidate} - {results[candidate]}")
 
+print()
 
 eliminated = ['Ailbhe', 'Bláthnaid', 'Joe']
 for round in range(0, len(eliminated),):
