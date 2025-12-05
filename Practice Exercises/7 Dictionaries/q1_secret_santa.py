@@ -9,6 +9,7 @@ def is_valid_allocation(allocation):
 
 def allocate_secret_santa(names):
     # shuffle(names.copy())
+    names = names.copy()
     shuffle(names)
     allocation_dict = {}
     for i,name in enumerate(names):
@@ -56,34 +57,34 @@ print(f"{is_valid_allocation(allocation)=}") # False
 from random import seed; seed(1)
 names = ['Curly', 'Larry', 'Moe']
 my_allocation =  {'Larry': 'Moe', 'Moe': 'Curly', 'Curly': 'Larry'}
-print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect")
+print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect") # Correct
 
 # 3 names, Allocation 2
 from random import seed; seed(10)
 names = ['Curly', 'Larry', 'Moe']
 my_allocation =  {'Larry': 'Curly', 'Curly': 'Moe', 'Moe': 'Larry'}
-print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect")
+print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect") # Correct
 
 # 4 names, Allocation 1
 from random import seed; seed(20)
 names = ['Ashok', 'Bláthnaid', 'Carla', 'Dawid']
 my_allocation =  {'Carla': 'Ashok', 'Ashok': 'Dawid', 'Dawid': 'Bláthnaid', 'Bláthnaid': 'Carla'}
-print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect")
+print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect") # Correct
 
 # 4 names, Allocation 2
 from random import seed; seed(30)
 names = ['Ashok', 'Bláthnaid', 'Carla', 'Dawid']
 my_allocation =  {'Bláthnaid': 'Ashok', 'Ashok': 'Dawid', 'Dawid': 'Carla', 'Carla': 'Bláthnaid'}
-print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect")
+print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect") # Correct
 
 # 5 names, Allocation 1
 from random import seed; seed(40)
 names = ['Chico', 'Harpo', 'Gummo', 'Groucho', 'Zeppo']
 my_allocation =  {'Gummo': 'Harpo', 'Harpo': 'Zeppo', 'Zeppo': 'Chico', 'Chico': 'Groucho', 'Groucho': 'Gummo'}
-print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect")
+print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect") # Correct
 
 # 5 names, Allocation 2
 from random import seed; seed(50)
 names = ['Chico', 'Harpo', 'Gummo', 'Groucho', 'Zeppo']
 my_allocation =  {'Zeppo': 'Chico', 'Chico': 'Harpo', 'Harpo': 'Gummo', 'Gummo': 'Groucho', 'Groucho': 'Zeppo'}
-print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect")
+print("Correct" if my_allocation == allocate_secret_santa(names) else f"Incorrect") # Correct

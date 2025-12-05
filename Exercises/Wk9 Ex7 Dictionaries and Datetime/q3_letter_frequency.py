@@ -30,7 +30,8 @@ def get_percent_letter_frequencies(filename):
         return percentages
 
         
-percent_frequencies = get_percent_letter_frequencies("Carmilla.txt")
+# percent_frequencies = get_percent_letter_frequencies("Carmilla.txt")
+percent_frequencies = get_percent_letter_frequencies("Exercises\Wk9 Ex7 Dictionaries and Datetime\Carmilla.txt")
 print("Letter Frequency")
 for letter in sorted(percent_frequencies):
     print(f"{letter:^5}{percent_frequencies.get(letter):^9.1f}")
