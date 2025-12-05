@@ -33,6 +33,7 @@
 #  Figure 3.3 overleaf provides a table showing sample data for the data structures.
 
 filename = "net_data.csv"
+filename = "exam_papers\\2024_25_summer\\question_3\\net_data.csv"
 
 # 3(a)(ii)
 duration_list = []
