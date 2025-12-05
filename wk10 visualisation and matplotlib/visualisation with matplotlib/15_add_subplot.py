@@ -72,7 +72,7 @@ for state in states:
 
     i += 1
 
-# shot the plots
+# show the plots
 plt.show()
 
 fig.savefig('multiple/amazon_date_plots.png', bbox_inches='tight')
