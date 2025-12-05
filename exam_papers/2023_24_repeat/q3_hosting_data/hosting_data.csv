@@ -1,0 +1,84 @@
+Company site,OS,DNS,Connect,Total
+Aetna,Linux,0.673,0.001,0.674
+Alcoa,unknown,0.34,0.132,0.472
+American Electric Power,Windows Server 2008,0.327,0.19,0.517
+American Express,Linux,0.583,0.009,0.592
+American Intl. Group,unknown,0.286,0.014,0.3
+AOL Time Warner,Linux,0.157,0.005,0.162
+Aquila,unknown,0.223,0.004,0.227
+Archer Daniels Midland,Citrix Netscaler,0.362,0.2,0.562
+AT&T,Linux,0.711,0.004,0.715
+Bank of America Corp.,unknown,0.499,0.18,0.679
+Bank One Corp.,unknown,0.625,0.168,0.793
+Berkshire Hathaway,unknown,0.267,0.011,0.278
+Boeing,Linux,0.901,0.191,1.092
+Bristol-Myers Squibb,Linux,0.371,0.007,0.378
+Cardinal Health,unknown,0.132,0.003,0.135
+Centrilogic,unknown,0.267,0.004,0.271
+Chevron,Windows Server 2008,0.8,0.003,0.803
+Cisco Systems,Linux,0.867,0.009,0.876
+Citigroup,Linux,0.483,0.006,0.489
+Coca-Cola,unknown,0.137,0.156,0.293
+Compaq Computer,unknown,0.458,0.062,0.52
+ConAgra,unknown,0.159,0.147,0.306
+Conoco,unknown,0.352,0.06,0.412
+CVS,Linux,0.61,0.004,0.614
+Dell Computer,Linux,0.49,0.005,0.495
+Delphi,unknown,0.202,0.003,0.205
+Dow Chemical,Linux,0.627,0.004,0.631
+Duke Energy,Citrix Netscaler,0.166,0.106,0.272
+DuPont de Nemours (E.I.),unknown,0.36,0.006,0.366
+Dynegy,Windows Server 2008,0.325,0.003,0.328
+El Paso,unknown,0.58,0.177,0.757
+Electronic Data Systems,unknown,0.2,0.145,0.345
+Enron,unknown,0.142,0.004,0.146
+Exxon Mobil,Linux,0.605,0.009,0.614
+Fannie Mae,unknown,0.273,0.003,0.276
+Freddie Mac,unknown,0.438,0.003,0.441
+General Electric,unknown,0.371,0.004,0.375
+General Motors,Linux,0.583,0.014,0.597
+Georgia-Pacific,unknown,0.304,0.012,0.316
+Goldman Sachs Group,Linux,0.431,0.006,0.437
+Hewlett-Packard,Linux,0.605,0.004,0.609
+Honeywell Intl.,Linux,0.449,0.009,0.458
+Intel,Linux,0.598,0.009,0.607
+International Paper,Citrix Netscaler,0.294,0.164,0.458
+Intl. Business Machines,Linux,0.992,0.006,0.998
+J.C. Penney,Linux,0.361,0.006,0.367
+J.P. Morgan Chase,Linux,0.56,0.004,0.564
+Johnson & Johnson,Linux,0.584,0.009,0.593
+Lockheed Martin,unknown,0.912,0.012,0.924
+Marathon Oil,Linux,0.186,0.006,0.192
+McKesson,Linux,0.198,0.007,0.205
+Merck,unknown,0.487,0.007,0.494
+Merrill Lynch,unknown,0.699,0.158,0.857
+MetLife,unknown,0.422,0.013,0.435
+Microsoft,Linux,0.588,0.005,0.593
+Motorola,Linux,0.581,0.009,0.59
+New York Life Insurance,Linux,0.747,0.004,0.751
+PepsiCo,Linux,0.38,0.007,0.387
+Pfizer,unknown,0.279,0.003,0.282
+PG&E Corp.,unknown,1.371,0.061,1.432
+Philip Morris,unknown,0.227,0.003,0.23
+Procter & Gamble,unknown,0.125,0.131,0.256
+Prudential Financial,Linux,0.406,0.014,0.42
+Reliant Energy,unknown,0.127,0.15,0.277
+SBC Communications,unknown,0.671,0.192,0.863
+Sears Roebuck,Linux,0.608,0.009,0.617
+Sprint,Linux,0.451,0.006,0.457
+State Farm Insurance,unknown,0.378,0.127,0.505
+Supervalu,unknown,0.166,0.23,0.396
+Sysco,unknown,0.331,0.146,0.477
+Target,unknown,0.338,0.003,0.341
+TIAA-CREF,Linux,0.623,0.017,0.64
+United Parcel Service,Linux,1.003,0.005,1.008
+United Technologies,unknown,0.132,0.005,0.137
+UnitedHealth Group,unknown,0.339,0.004,0.343
+Verizon Communications,unknown,0.234,0.014,0.248
+Viacom,Linux,0.18,0.169,0.349
+Wachovia Corp.,unknown,0.14,0.184,0.324
+Wal-Mart Stores,unknown,0.448,0.156,0.604
+Walgreen,Linux,0.871,0.005,0.876
+Walt Disney,Linux,0.506,0.004,0.51
+Wells Fargo,Linux,0.421,0.005,0.426
+WorldCom,unknown,0.432,0.015,0.447
