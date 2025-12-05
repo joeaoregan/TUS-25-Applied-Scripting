@@ -5,7 +5,9 @@
 # Create empty dictionary
 results = {}
 
-filename = "hurling_2025.csv" # input("Enter the filename: ")
+# filename = "hurling_2025.csv" # input("Enter the filename: ")
+filename = "./wk09 data structures 2 and date time/selected solutions and data files/hurling_2025.csv" # input("Enter the filename: ")
+
 # Open the file for reading
 with open(filename) as data_file:
     # Read in the first line containing the column headings

@@ -8,6 +8,7 @@ cipher_alphabet = ascii_uppercase[3:] + ascii_uppercase[:3]
 
 # create a translation table: lowercase → shifted uppercase
 cipher_table = str.maketrans(ascii_lowercase, cipher_alphabet)
+print(cipher_table)
 
 # encipher a plaintext message
 plaintext = input("Enter the message to be enciphered: ")

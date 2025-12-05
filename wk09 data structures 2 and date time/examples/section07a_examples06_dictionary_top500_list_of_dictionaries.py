@@ -1,6 +1,7 @@
 # Program to demonstrate
 # Example of a dictionary wity a tuple as the value
-with open("TOP500_202506.csv") as top500_file:
+# with open("TOP500_202506.csv") as top500_file:
+with open("wk09 data structures 2 and date time\examples\TOP500_202506.csv") as top500_file:
     # Read and ignore the first line (headings)
     _ = top500_file.readline()
 
