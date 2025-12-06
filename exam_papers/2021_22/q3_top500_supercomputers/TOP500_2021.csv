@@ -1,0 +1,386 @@
+Name,Year,Area,Total Cores,Rmax [TFlop/s]
+Endeavor,2011,Industry,31524,1653.92
+,2013,Vendor,62944,1587
+HPC2,2014,Industry,72000,3188
+Mistral,2015,Research,99072,3010.68
+DGX Saturn V,2016,Vendor,60512,3307
+JOLIOT-CURIE SKL,2017,Research,79488,4065.55
+ITO - Subsystem A,2018,Academic,72000,4540.69
+Christofari,2019,Industry,99600,6669
+Plasma Simulator,2020,Research,34560,7892.7
+MeluXina - Accelerator Module,2021,Research,99200,10520
+Earth Simulator -SX-Aurora TSUBASA,2021,Research,43776,9990.7
+NVIDIA Cambridge-1 DGX SuperPOD,2021,Vendor,79360,9682
+Raven-GPU,2021,Research,96768,8620
+HoreKa-Green,2021,Academic,90932,8025.6
+Karolina GPU partition,2021,Academic,64960,6048
+Sawtooth,2019,Research,99792,5780.62
+Berzelius,2021,Academic,59520,5253
+TX-GAIA (Green AI Accelerator),2019,Academic,88400,5161
+BioHive-1,2021,Industry,39680,4902
+Flow Type II subsystem,2020,Academic,79560,4880.46
+Eagle,2018,Research,75600,4850.66
+PARAM Siddhi-AI,2020,Research,41664,4619
+Jean Zay,2019,Academic,93960,4478
+Wisteria/BDEC-01 (Aquarius),2021,Academic,42120,4425
+Atlas,2020,Industry,91936,4376
+CRONOS,2020,Industry,81600,4299.33
+Oakbridge-CX,2019,Academic,76608,4289.85
+SNL/NNSA CTS-1 Manzano,2020,Research,71424,4281
+,2019,Research,70416,4128
+Wilkes-3,2021,Academic,44800,4124
+,2020,Research,18688,3870.1
+,2019,Industry,65208,3712
+LLNL Ruby,2020,Research,85568,3700.15
+Orion,2019,Academic,70560,3665.72
+IARA,2021,Research,24800,3657
+Joule 2.0,2018,Research,86400,3608.62
+Niagara,2017,Research,80640,3599.66
+,2014,Government,72800,3577
+,2015,Government,72800,3577
+Altair,2020,Academic,63360,3533.61
+Unizah-II,2020,Industry,85560,3487.91
+davinci-1,2020,Others,38400,3449
+Cedar (GPU),2020,Academic,67584,3371
+,2017,Industry,60512,3307
+,2020,Research,14336,3250.4
+LLNL/NNSA CTS-1 MAGMA,2019,Research,62400,3241.24
+Mustang,2018,Government,55296,3221.4
+Fenix,2019,Industry,60480,3161
+Toubkal,2020,Academic,71232,3158.11
+Lichtenberg II (Phase 1),2020,Academic,59136,3148.38
+VEGA HPC GPU,2021,Research,33600,3096
+,2019,Industry,76000,3088.64
+Numerical Materials Simulator,2020,Research,53568,3082.12
+Hera,2019,Research,63840,3080.85
+Jean Zay,2019,Academic,61120,3054.35
+,2019,Industry,73600,2994.04
+Tetralith,2018,Academic,64512,2969.19
+,2019,Industry,72000,2931.84
+Jean,2020,Government,55296,2917.56
+,2020,Academic,49056,2889.41
+,2021,Industry,93600,2873.41
+,2020,Industry,94160,2867.64
+Karolina CPU partition,2021,Academic,92160,2837.4
+Freeman,2020,Research,79104,2829
+SuperMUC Phase 2,2015,Academic,86016,2813.62
+,2016,Research,89856,2801.78
+,2016,Research,89856,2801.78
+JFRS-1,2018,Research,54560,2787.14
+,2019,Industry,68000,2779.84
+,2021,Industry,72960,2774.23
+Spartan3,2021,Vendor,92160,2751
+ZZ2,2020,Industry,67200,2749.28
+,2019,Industry,66400,2746.3
+,2019,Government,59976,2744.84
+,2021,Industry,72000,2742.91
+VSC-4,2019,Academic,37920,2726.08
+SNL/NNSA CTS-1 Attaway,2019,Research,52920,2724.52
+ZZ3,2020,Industry,66400,2721.33
+,2021,Industry,71040,2710.88
+ZZ4,2020,Industry,65600,2691.69
+,2021,Industry,70080,2677.05
+Banting,2019,Government,53200,2676.74
+Hypercluster,2019,Research,47808,2666
+ZZ5,2020,Industry,64800,2661.46
+ZZ6,2020,Industry,69120,2654.04
+Grace,2020,Academic,43200,2638.53
+LLNL/NNSA CTS-1 Jade,2016,Research,95472,2632.51
+LLNL CTS-1 Quartz,2016,Research,95472,2632.51
+,2019,Industry,64000,2621.44
+,2020,Academic,50400,2610
+,2021,Industry,68160,2609.16
+Cedar (CPU),2020,Academic,67584,2607.98
+Daley,2019,Government,53200,2598.28
+AlphaCentauri,2021,Academic,31008,2592
+HPC3,2017,Industry,66000,2592
+,2020,Industry,62400,2590.84
+,2020,Industry,64320,2583.09
+,2021,Industry,83200,2581.02
+,2021,Industry,67200,2574.02
+Mihir,2018,Research,83592,2570.4
+Spartan2,2020,Vendor,23040,2566
+PAI-BSystem,2018,Research,50816,2547
+occigen2,2016,Academic,85824,2494.65
+,2020,Industry,61440,2487.09
+CLAIX (2018),2018,Academic,61200,2483.58
+Expanse,2020,Academic,91648,2480.6
+,2020,Industry,50400,2480
+,2020,Industry,50400,2480
+Lomonosov 2,2014,Academic,64384,2478
+Kay,2020,Government,46848,2475.67
+B1,2019,Industry,60000,2462.4
+Centennial,2017,Research,73920,2443.7
+PAI-ASystem,2017,Research,48128,2435
+C1,2019,Industry,59200,2433.83
+Big Red 200,2020,Academic,84480,2431.2
+D1,2019,Industry,58800,2421.62
+Nuri,2015,Research,69600,2395.68
+Miri,2015,Research,69600,2395.68
+E1,2019,Industry,58000,2392.38
+,2020,Industry,58560,2379.87
+NVIDIA DGX SuperPOD,2020,Vendor,19840,2356
+Ares,2021,Academic,37824,2338.79
+,2020,Industry,48160,2336
+,2020,Industry,48160,2336
+HoreKa-Blue,2021,Academic,45752,2333.51
+,2020,Industry,53760,2329
+,2020,Industry,53760,2329
+,2020,Industry,53760,2329
+Makman-3,2018,Industry,53300,2322.46
+F1,2019,Industry,56000,2317.95
+,2020,Industry,49920,2316
+Taiwania 3,2020,Research,50400,2297.56
+Longhorn,2019,Academic,37440,2288
+,2017,Industry,55104,2287
+MeluXina - Cluster Module,2021,Research,73344,2286.56
+,2020,Others,47320,2282
+,2020,Others,47320,2282
+,2020,Others,47320,2282
+,2020,Others,47320,2282
+Béluga,2019,Academic,72480,2278
+,2020,Research,40560,2276
+,2020,Others,40800,2275
+Cumulus,2018,Academic,50176,2271.38
+CEA-HFi,2021,Research,73728,2262
+MTS GROM,2021,Industry,19840,2258
+Makman-2,2015,Industry,76032,2249.68
+G1,2019,Industry,54000,2242.94
+,2021,Industry,57600,2241.88
+,2019,Industry,67200,2192
+,2020,Others,50400,2189
+H1,2019,Industry,52000,2166.52
+,2019,Industry,49800,2164
+,2019,Industry,49800,2164
+,2019,Industry,49800,2164
+Betty,2020,Research,94976,2133
+,2019,Industry,96640,2129.54
+,2020,Industry,44200,2121
+,2020,Industry,44720,2121
+,2020,Industry,44720,2121
+,2020,Industry,44720,2121
+,2019,Government,44720,2115
+,2018,Industry,53760,2109
+MagicCube3,2019,Research,40960,2109
+I1,2019,Industry,50000,2094
+ATERUI II ,2018,Academic,40000,2089.98
+Greene,2020,Academic,32796,2088.83
+,2019,Others,44032,2087
+,2019,Industry,48160,2078
+,2019,Industry,48160,2078
+,2019,Industry,48160,2078
+Cannon,2019,Academic,32160,2076.89
+,2019,Industry,59760,2075
+JD I1,2018,Industry,52320,2074.04
+,2019,Government,44160,2059.88
+,2019,Industry,49200,2045.93
+,2019,Industry,53040,2028
+,2019,Industry,53040,2028
+,2020,Industry,48000,2027.52
+,2019,Industry,55440,2026
+,2020,Others,48880,2016
+TX-Green2,2021,Academic,43200,2015
+J1,2019,Industry,48000,2014.46
+,2020,Industry,41280,2011
+,2020,Industry,40800,2011
+,2019,Industry,42312,2003
+Koehr,2018,Government,34560,2001.99
+Gaffney,2018,Government,34560,2001.99
+Grand Chariot,2018,Academic,39760,2000
+A64FX prototype,2019,Vendor,36864,1999.5
+K1,2019,Industry,47200,1983.15
+Gaïa,2018,Industry,41472,1980.53
+bsystem,2019,Industry,60800,1976
+,2019,Industry,89600,1975.07
+,2019,Industry,45152,1975
+,2019,Industry,45152,1975
+,2019,Industry,45152,1975
+Mogon II,2017,Academic,49432,1967.81
+Biowulf,2016,Research,66304,1966.08
+,2019,Industry,41280,1963
+,2019,Industry,47600,1955
+,2019,Industry,53280,1952
+,2019,Industry,58112,1934
+,2020,Industry,51504,1928
+CTcluster,2018,Industry,54000,1928
+,2017,Industry,40320,1921
+,2019,Industry,57200,1914.59
+,2018,Industry,49680,1914.38
+,2019,Industry,86400,1905.48
+,2019,Industry,46200,1901
+Piz Daint Multicore,2016,Research,65268,1896.75
+,2019,Industry,56800,1896
+A1,2019,Industry,47040,1882.56
+,2018,Industry,40320,1872
+Tera-1000-1,2016,Research,70272,1871
+,2020,Research,28240,1870.73
+,2019,Industry,44000,1861.37
+,2019,Industry,46480,1854
+,2020,Academic,37440,1853
+Santos Dumont (SDumont),2019,Academic,33856,1849
+Phoenix,2020,Research,31104,1840.89
+bsystem,2019,Industry,55040,1838
+,2019,Industry,83200,1835.52
+,2019,Industry,48000,1833
+,2018,Industry,43200,1831.49
+scafellpike,2017,Research,80640,1829.86
+,2019,Industry,66080,1828.02
+JGV100System,2018,Industry,41760,1825
+,2019,Industry,44100,1824
+MN-3,2020,Industry,1664,1822.4
+,2018,Industry,48880,1820
+,2018,Industry,48880,1820
+,2019,Government,54240,1815
+szaisystem,2019,Industry,30600,1814
+Bank P A2,2019,Industry,36000,1809.34
+Bank P A2,2019,Industry,36000,1809.34
+S1,2018,Government,33840,1804
+Beskow,2017,Academic,67456,1802.51
+Molecular Simulator,2017,Research,38552,1785.62
+R1,2018,Government,33120,1768.59
+,2019,Industry,80000,1765.81
+,2019,Industry,99360,1765
+POD3,2019,Industry,34800,1756.75
+QURIOSITY,2017,Industry,35280,1750.18
+CSystem,2018,Others,97920,1736
+Q1,2018,Government,32400,1735.66
+,2017,Industry,38400,1729
+,2017,Industry,38400,1729
+,2017,Industry,38400,1729
+Tryton Plus,2021,Academic,30432,1728.34
+,2019,Industry,38400,1724.45
+,2020,Research,35200,1715.81
+,2017,Industry,39680,1714
+Puhti,2019,Academic,40000,1706.73
+P1,2018,Government,31680,1703.51
+SwiftLucy,2015,Government,57600,1703.28
+AFI-NITY,2018,Academic,35200,1691
+TaiYi,2018,Academic,32400,1686.54
+,2018,Government,35200,1684.19
+,2019,Research,28800,1683.37
+ISystem,2018,Industry,97920,1683
+Internet Service D,2019,Others,48960,1671.37
+Prometheus,2015,Academic,55728,1670.09
+O1,2018,Government,30960,1668.16
+,2018,Industry,41760,1667.72
+Internet Company T Y1,2018,Industry,89600,1653.22
+,2019,Industry,78400,1652.49
+Software Company (M) AA1,2017,Industry,57600,1649.11
+Software Company (M) CA3,2018,Industry,57600,1649.11
+Software Company (M) CA2,2018,Industry,57600,1649.11
+Software Company (M) CA1,2018,Industry,57600,1649.11
+,2019,Industry,57600,1649.11
+Software Company (M) A16,2018,Industry,57600,1649.11
+Software Company (M) A15,2018,Industry,57600,1649.11
+Software Company (M) A14,2018,Industry,57600,1649.11
+Software Company (M) A13,2018,Industry,57600,1649.11
+Software Company (M) A11,2018,Industry,57600,1649.11
+Software Company (M) A10,2018,Industry,57600,1649.11
+Software Company (M) A9,2018,Industry,57600,1649.11
+Software Company (M) A8,2018,Industry,57600,1649.11
+Software Company (M) A7,2018,Industry,57600,1649.11
+Software Company (M) A6,2018,Industry,57600,1649.11
+Software Company (M) A4,2018,Industry,57600,1649.11
+Software Company (M) A3,2018,Industry,57600,1649.11
+Software Company (M) A2,2017,Industry,57600,1649.11
+Software Company (M) A1,2017,Industry,57600,1649.11
+Software Company (M) A12,2018,Industry,57600,1649.11
+Software Company (M) A5,2018,Industry,57600,1649.11
+Software Company (M) A26,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+Software Company (M) A38,2018,Industry,57600,1649.11
+Software Company (M) A37,2018,Industry,57600,1649.11
+Software Company (M) A36,2018,Industry,57600,1649.11
+Software Company (M) A35,2018,Industry,57600,1649.11
+Software Company (M) A34,2018,Industry,57600,1649.11
+Software Company (M) A33,2018,Industry,57600,1649.11
+Software Company (M) A32,2018,Industry,57600,1649.11
+Software Company (M) A31,2018,Industry,57600,1649.11
+Software Company (M) A30,2018,Industry,57600,1649.11
+Software Company (M) A29,2018,Industry,57600,1649.11
+Software Company (M) A28,2018,Industry,57600,1649.11
+,2019,Industry,57600,1649.11
+,2019,Industry,57600,1649.11
+,2019,Industry,57600,1649.11
+,2019,Industry,57600,1649.11
+,2019,Industry,57600,1649.11
+,2019,Industry,57600,1649.11
+NA5,2018,Industry,57600,1649.11
+NA4,2018,Industry,57600,1649.11
+NA3,2018,Industry,57600,1649.11
+NA2,2018,Industry,57600,1649.11
+NA1,2018,Industry,57600,1649.11
+IA4,2018,Industry,57600,1649.11
+IA3,2018,Industry,57600,1649.11
+IA2,2018,Industry,57600,1649.11
+IA1,2018,Industry,57600,1649.11
+SB3,2018,Industry,57600,1649.11
+SB2,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2018,Industry,57600,1649.11
+,2019,Industry,57600,1649.11
+NA12,2019,Industry,57600,1649.11
+NA11,2019,Industry,57600,1649.11
+NA10,2019,Industry,57600,1649.11
+NA9,2019,Industry,57600,1649.11
+NA8,2019,Industry,57600,1649.11
+NA7,2019,Industry,57600,1649.11
+IA13,2019,Industry,57600,1649.11
+HKA1,2018,Industry,57600,1649.11
+NA6,2018,Industry,57600,1649.11
+SB5,2018,Industry,57600,1649.11
+IA14,2019,Industry,57600,1649.11
+NA15,2019,Industry,57600,1649.11
+J2,2019,Industry,57600,1649.11
+NA14,2019,Industry,57600,1649.11
+NA13,2019,Industry,57600,1649.11
+NY A2,2019,Industry,57600,1649.11
+NY A1,2019,Industry,57600,1649.11
+,2018,Others,40320,1646
+Cumulus-Cascadelake,2020,Academic,37632,1644.36
+,2019,Industry,43520,1643
+,2019,Industry,42752,1643
+,2019,Industry,42752,1643
+,2018,Industry,38400,1639.3
+Surge,2015,Research,48960,1635.02
+Luna,2015,Research,48960,1635.02
+Cedar-2,2018,Academic,55296,1632.96
+,2018,Government,32144,1630.13
+Bell,2020,Academic,59520,1623.7
+,2018,Industry,37600,1608.22
+Ogbon Cimatec/Petrobras,2019,Research,27768,1605
+Internet Company T X2,2018,Industry,86800,1603.23
+HOKUSAI BigWaterfall,2017,Research,33600,1601
+U3,2018,Government,31360,1593.03
+,2019,Industry,48000,1590
+Cygnus,2019,Academic,27520,1582
+,2018,Industry,36800,1579.98
+,2019,Industry,88800,1569
+SGSystem,2018,Industry,92000,1562
+,2018,Industry,34400,1560
+,2018,Industry,34400,1560
+,2018,Industry,34400,1560
+U2,2018,Government,30576,1558.4
+,2018,Industry,38880,1555.97
+,2018,Industry,36000,1552.44
+Internet Company T Z1,2017,Industry,84000,1551.51
+Internet Company T X1,2018,Industry,82880,1537.19
+LANL CTS-1 Grizzly,2016,Research,53352,1524.72
+,2018,Industry,35200,1521.94
+U1,2018,Government,29792,1520.97
+,2018,Industry,34400,1511
