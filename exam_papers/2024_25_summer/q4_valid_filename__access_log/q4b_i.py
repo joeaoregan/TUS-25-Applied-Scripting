@@ -28,7 +28,7 @@ filenames = {}
 regex = re.compile(r"(\w+\.\w{1,4}) (\d{3}) (\d+)")
 
 # with open("access.log") as logfile:
-with open("./exam_papers/2024_25_summer/question_4/access.log") as logfile:
+with open("exam_papers\\2024_25_summer\\q4_valid_filename__access_log\\access.log") as logfile:
     for line in logfile:
         match = regex.search(line)
 

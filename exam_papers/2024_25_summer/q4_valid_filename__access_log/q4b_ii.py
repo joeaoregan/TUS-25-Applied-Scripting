@@ -24,7 +24,8 @@ import re
 freq = {}
 regex = re.compile(r" (\d{3}) ")
 
-with open("access.log") as logfile:
+# with open("access.log") as logfile:
+with open("exam_papers\\2024_25_summer\\q4_valid_filename__access_log\\access.log") as logfile:
     contents = logfile.read()
 
     code_list = regex.findall(contents)

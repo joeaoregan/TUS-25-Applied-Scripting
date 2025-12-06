@@ -12,18 +12,21 @@
 
 import re
 
-regex = r"\w+\.\w{1,4}"
+# regex = r"\w+\.\w{1,4}"
+# regex = r"[\w-]+\.\w{1,4}"
+regex = r"[\w-]+\.[A-Za-z]{,4}"
 
 def check_filename(filename):
     if re.fullmatch(regex, filename):
         return("Valid Filename")
     return("Not a valid Filename")
 
-while True:
-    filename = input("Enter the filename or q to quit: ")
+if __name__ == "__main__":
+    while True:
+        filename = input("Enter the filename or q to quit: ")
 
-    if filename == "q":
-        break
+        if filename == "q":
+            break
 
-    print(check_filename(filename))
+        print(check_filename(filename))
 
