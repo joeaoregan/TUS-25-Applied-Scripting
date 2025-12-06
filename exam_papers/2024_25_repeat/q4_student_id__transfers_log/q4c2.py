@@ -6,10 +6,6 @@ with open("exam_papers\\2024_25_repeat\\q4_student_id__transfers_log\\transfers.
     faculties = re.findall(r"([A-Za-z ]+) [A-Z]{1,2}\d{6}[0-9A]", contents)
 
     unique_faculties = list(set(faculties))
-    # frequencies = {faculty : faculties.count(faculty) for faculty in unique_faculties}
-
-    # max_faculty = max(frequencies, key=frequencies.get)
-    # print(f"{max_faculty} had most students: {frequencies[max_faculty]}")
 
     frequencies = {} # reset
     
